@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**given655/given655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 Certifications & Achievements
 
-Here are some ideas to get you started:
+Here are some of my verified certifications that reflect my continuous learning and technical growth:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Certificate | Issuer | Date | Credential |
+|-------------|---------|------|-------------|
+| **FNB Academy** | (FNB) | 2025 | [🔗 View Certificate](./fnb.pdf) |
+
+
+---
+
+### 🧾 Highlights
+- 💻 Hands-on experience with **Python, HTML, and Javascript**
+- 🚀 Applying academic knowledge from **Mathematics and Computer Science** to real-world projects
+
+---
+
+> _“The beautiful thing about learning is that nobody can take it away from you.”_ — B.B. King
+
